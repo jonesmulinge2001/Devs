@@ -9,6 +9,9 @@ let chukaUni = {
     isPublic: true
 }
 
+chukaUni.logo = 'Y';
+console.log(chukaUni.logo);
+
 // access items in an object
 let instname = chukaUni.yearOfEstablishment;
 console.log(instname);
